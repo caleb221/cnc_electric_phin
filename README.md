@@ -12,7 +12,7 @@ I think you could probably make one using hand tools / a bandsaw / routing table
 # Model/CAD
   The model posted here had been created using freeCAD.
   
-  The scale length measures at XX and was matches a Phin I had bought in Thailand.
+  The scale length measures at  22'' (558.8mm) and was matches a Phin I had bought in Thailand.
   
   Fret markers were calculated using the <a href="https://www.ekips.org/tools/guitar/fretfind2d/">FretFind2D</a> tool
   
