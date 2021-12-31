@@ -1,7 +1,13 @@
 # Electric Phin (พิณ)
-This is the model for a full sized 3 string electric Phin, a 3 String Thai lute.
-Making this instrument required both CNC and 3D printed parts, as well as some hand tools for cleaning things up.
+This is the model for a full sized 3 string electric Phin, a 3 String Thai lute.<br>
+Making this instrument required both CNC and 3D printed parts, as well as some hand tools for cleaning things up.<br>
 
+
+
+
+
+
+I think you could probably make one using hand tools / a bandsaw / routing table if you wanted to as well!<br>
 
 # Model/CAD
   The model posted here had been created using freeCAD.
@@ -13,8 +19,32 @@ Making this instrument required both CNC and 3D printed parts, as well as some h
   
   
 # Machining/CAM
-Machining took place in several steps, 
+  Feeds for OPEN BUILDS 1010 LEAD<br>
+  Material: Poplar wood (technically hardwood, but still pretty soft)<br>
   
+  1/4'' fluted downcut (6mm) bit:   20mm/s,  1200mm/min<br>
+  1/8'' fluted downcut (~3mm) bit:  18mm/s,  1080mm/min<br>
+  0.5mm Ball nose bit: 15mm/s, 900mm/min<br>
+  
+  <b>BODY:</b><br>
+  Machine out the inlay if desired<br>
+  change bit and then run pickup/neck/electronics pockets<br>
+  run the top contour path (this will NOT cut all the way through)<br>
+  flip the wood stock<br>
+  pocket the electronics back pocket<br>
+  finish out the contour from the backside<br>
+  remove from machine<br>
+  
+  sand, stain, do what you want!<br>
+  
+  <b>NECK:</b><br>
+    This one requires a bit of patience<br>
+    Machine out the inlays<br>
+    backfill with epoxy resin and pigment (wait for resin to cure fully before next operation)<br>
+    plane out the surface until epoxy overfill and stained parts of wood are even (about 1-2mms)<br>
+    change bit to 0.5mm ball nose and pocket out the fret markers<br>
+    take off machine and do the rest of the luthier work on the frets<br>
+    
 
 # Electronics
    <b>Pickups</b><br>
