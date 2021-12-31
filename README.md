@@ -85,6 +85,24 @@ I think you could probably make one using hand tools / a bandsaw / routing table
   
 # BOM
 
-wood of choice (I used Poplar)
 
-
+Materials:
+  Wood stock (I used Poplar)
+  3x2''     x8'  (back of body, neck, headstock)
+  3x1/4''   x2'  (fingerboard)
+  1x6''     x1'  (Body front)
+  Slim Fretwire
+  500K Potentiometer
+  42AWG Copper Wire
+  20AWG Copper wire
+  #6x1' Deck Screws
+  1/4'' Standard Audio Input Jack
+  
+Consumables:
+  Epoxy Resin
+  Mica Powder
+  Keda Wood Dye
+  Water based Wood Finish
+  Boiled Linseed Oil/Japan Dryer
+  Sand Paper
+  Safety stuff
