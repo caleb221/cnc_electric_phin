@@ -76,13 +76,7 @@ I think you could probably make one using hand tools / a bandsaw / routing table
  <br>
    <img src ="https://github.com/caleb221/cnc_electric_phin/blob/main/img/electronicsOpened.jpg" width=200 height=200></img>
       
-     
-# Build:
 
-  Inlays for the fretboard were filled using Epoxy Resin with Mica Powder
-  frets were hammered and/or CA glued to the fretboard
-  
-  
 # BOM
 
 
