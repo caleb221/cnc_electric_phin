@@ -4,7 +4,8 @@ Making this instrument required both CNC and 3D printed parts, as well as some h
 
 <img src ="https://github.com/caleb221/cnc_electric_phin/blob/main/img/ThaiCompared.jpg" width=300 height=350></img>
 <img src ="https://github.com/caleb221/cnc_electric_phin/blob/main/img/soloFinished.jpg" width=200 height=250></img>
-
+<img src="https://github.com/caleb221/cnc_electric_phin/blob/main/img/phinFreeCAD.png" width=200 height=250></img>
+<br>
 I think you could probably make one using hand tools / a bandsaw / routing table if you wanted to as well!<br>
 
 # Model/CAD
