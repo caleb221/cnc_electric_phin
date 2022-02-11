@@ -45,7 +45,7 @@ I think you could probably make one using hand tools / a bandsaw / routing table
     This one requires a bit of patience<br>
     Machine out the inlays<br>
     backfill with epoxy resin and pigment (wait for resin to cure fully before next operation)<br>
-    plane out the surface until epoxy overfill and stained parts of wood are even (about 1-2mms)<br>
+    plane out the surface until epoxy overfill and stained parts of wood are even (about 0.5-1.5mm)<br>
     change bit to 0.5mm ball nose and pocket out the fret markers<br>
     take off machine and do the rest of the luthier work on the frets<br>
    <img src ="https://github.com/caleb221/cnc_electric_phin/blob/main/img/fingerBoardNoFret.jpg" width=200 height=200></img>
